@@ -37,16 +37,16 @@
 * City - Olimpiyatlara Ev Sahipliği Yapan Şehir
 * Sport - Spor Dalı
 * Event - Etkinlik (Basketbol dalında Erkeklerin Oynadığı Basketbol Oyunu)
-* Medal - Gold, Silver, Bronze, ya da NaN (Altın, Gümüş, Bronz Madalyalar ve NaN değerlerden oluşmakta.)
+* Medal - Gold, Silver, Bronze, ya da NaN (Altın, Gümüş, Bronz Madalyalar veya NaN değerlerden oluşmakta.)
 --------------------------
 
 # Veri Seti İçerisinde Yapılan İşlemler;
 * Veri setleri tanımlandıktan sonra sütunlar ve değerleri incelendi,
-* İki veri seti  ortak sütunlarıyla birleştirildi,
-* Sayısal değerler içeren sütunlardan bazı farkı bilgiler elde edildi,
-* Tekrar eden satırlar veri setinden kaldırıldı,
-* Veri seti içerisinde eksik verilerin sayıları belirlendi, bu değerlerden bazıları dolduruldu ya da silindi, 
-* Hem grafikler için hem de analiz için group by işlemleri yapıldı,
+* İki veri seti ikisinde de bulunan ortak sütunlarıyla birleştirildi,
+* Sayısal değerler içeren sütunlardan bazı bilgiler elde edildi,
+* Tekrar eden veriler veri setinden kaldırıldı,
+* Veri seti içerisinde eksik verilerin sayıları belirlendi, bu değerlerden bazıları dolduruldu veya silindi, 
+* Bazı analizler ve grafikler için groupby işlemleri yapıldı,
 * Grafik olarak pairplot, korelasyon grafiği , line, bar, pie, boxplot grafik yöntemleri kullanıldı.
 
 # Yapılan Analizler:
