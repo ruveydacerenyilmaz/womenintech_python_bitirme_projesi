@@ -7,7 +7,7 @@
 ![gif](https://media.giphy.com/media/26ufmepVftH5Y2V7q/giphy.gif)
 </h3>
 
-# SistersLab Bilim ve Teknolojide Kadın Derneği tarafından düzenlenen Women In Tech Akademisi sonunda, Python Bitirme Projesi olarak "1896 ile 2016 Yılları Arasında Oynanan Olimpiyat Oyunları" ile ilgili veri analizi yapıldı. 
+SistersLab Bilim ve Teknolojide Kadın Derneği tarafından düzenlenen Women In Tech Akademisi sonunda, Python Bitirme Projesi olarak "1896 ile 2016 Yılları Arasında Oynanan Olimpiyat Oyunları" ile ilgili veri analizi yapıldı. 
 
 * Her iki etkinlik son olarak 1992'de aynı yıl içerisinde gerçekleştirildi ve 1994'te düzenlenen Kış Olimpiyatları ile birlikte iki etkinlik arasında ikişer yıllık fark oluştu.
 
