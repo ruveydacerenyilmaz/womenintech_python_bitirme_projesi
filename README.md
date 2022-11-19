@@ -74,12 +74,12 @@
     * Olimpiyat Verisindeki Tüm Madalya Sayıları
     * Yaz Olimpiyatlarında;
         - Kazanılan Toplam Madalya Sayıları
-        - Yaz Olimpiyatlarında Kazanılan Madalyaların Cinsiyete Göre Dağılımı
-        - Yaz Olimpiyatlarına Katılan Kişilelerin Boy ve Kilosunun Cinsiyete Göre Grafiği
+        - Kazanılan Madalyaların Cinsiyete Göre Dağılımı
+        - Katılan Kişilelerin Boy ve Kilosunun Cinsiyete Göre Grafiği
     * Kış Olimpiyatlarında;
         - Kazanılan Toplam Madalya Sayıları
-        - Kış Olimpiyatlarında Kazanılan Madalyaların Cinsiyete Göre Dağılımı
-        - Kış Olimpiyatlarına Katılan Kişilenlerin Boy ve Kilosunun Cinsiyete Göre Grafiği
+        - Kazanılan Madalyaların Cinsiyete Göre Dağılımı
+        - Katılan Kişilenlerin Boy ve Kilosunun Cinsiyete Göre Grafiği
 
 7. Yıllara Göre Katılımcıların Cinsiyet Durumu
 
