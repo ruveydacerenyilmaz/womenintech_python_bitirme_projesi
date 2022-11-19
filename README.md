@@ -47,7 +47,7 @@
 * Tekrar eden satırlar veri setinden kaldırıldı,
 * Veri seti içerisinde eksik verilerin sayıları belirlendi, bu değerlerden bazıları dolduruldu ya da silindi, 
 * Hem grafikler için hem de analiz için group by işlemleri yapıldı,
-* Grafik olarak line, bar, pie, korelasyon grafiği, boxplot ve plotbar kullanıldı.
+* Grafik olarak pairplot, korelasyon grafiği , line, bar, pie, boxplot grafik yöntemleri kullanıldı.
 
 # Yapılan Analizler:
 1. Ülkelerin Kazandığı Altın Madalya Sayısı
